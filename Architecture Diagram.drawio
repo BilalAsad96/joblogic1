@@ -166,7 +166,7 @@
         <mxCell id="2c-OIeKGM9oHEGcq-zJm-72" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/power_platform/PowerBI.svg;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="1209.15" y="813" width="83" height="110.67" as="geometry" />
         </mxCell>
-        <mxCell id="2c-OIeKGM9oHEGcq-zJm-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=6.296;entryX=-0.004;entryY=0.486;entryDx=0;entryDy=0;fillColor=#CC0000;exitX=0.996;exitY=0.87;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=16;entryPerimeter=0;" edge="1" parent="1" source="23046e2b9bb16c14-27" target="2c-OIeKGM9oHEGcq-zJm-71">
+        <mxCell id="2c-OIeKGM9oHEGcq-zJm-73" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=10;endSize=6.296;entryX=0.521;entryY=-0.008;entryDx=0;entryDy=0;fillColor=#CC0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endWidth=16;entryPerimeter=0;" edge="1" parent="1" source="2c-OIeKGM9oHEGcq-zJm-68" target="2c-OIeKGM9oHEGcq-zJm-71">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1360" y="644.5" as="sourcePoint" />
             <mxPoint x="1399" y="645.5" as="targetPoint" />
@@ -210,6 +210,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="813.1600000000003" y="353.3899999999999" as="sourcePoint" />
             <mxPoint x="860" y="354.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2c-OIeKGM9oHEGcq-zJm-89" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=6.9230769230769225;endSize=7.615384615384615;entryX=0;entryY=0.809;entryDx=0;entryDy=0;fillColor=#CC0000;endWidth=15.192307692307692;entryPerimeter=0;exitX=1.008;exitY=0.6;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2c-OIeKGM9oHEGcq-zJm-68" target="2c-OIeKGM9oHEGcq-zJm-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1356" y="649" as="sourcePoint" />
+            <mxPoint x="1462" y="864" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1368" y="649" />
+              <mxPoint x="1368" y="444" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
