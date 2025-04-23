@@ -50,7 +50,7 @@
           <mxGeometry x="547.49" y="629" width="116.45" height="104.28" as="geometry" />
         </mxCell>
         <mxCell id="2c-OIeKGM9oHEGcq-zJm-23" value="IoT Devices" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.iot2;whiteSpace=wrap;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="75.64" y="472.11" width="127.89" height="127.89" as="geometry" />
+          <mxGeometry x="67.64" y="472.11" width="127.89" height="127.89" as="geometry" />
         </mxCell>
         <mxCell id="2c-OIeKGM9oHEGcq-zJm-28" value="SQL Server" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=22;image=img/lib/azure2/databases/SQL_Server.svg;labelBackgroundColor=none;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="295" width="129.19" height="129.19" as="geometry" />
